@@ -1,6 +1,6 @@
 Name:		texlive-leftindex
 Version:	56182
-Release:	1
+Release:	2
 Summary:	Left indices with better spacing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/leftindex
