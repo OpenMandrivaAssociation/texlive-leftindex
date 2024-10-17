@@ -3,7 +3,7 @@ Version:	69660
 Release:	1
 Summary:	Left indices with better spacing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/leftindex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/leftindex
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/leftindex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/leftindex.doc.r%{version}.tar.xz
